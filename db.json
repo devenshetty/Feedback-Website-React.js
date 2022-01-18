@@ -4,25 +4,6 @@
       "id": 2,
       "rating": 7,
       "text": "This is coming from db.json"
-    },
-    {
-      "id": 3,
-      "rating": 8,
-      "text": "This is coming from db.json"
-    },
-    {
-      "rating ": "9\n",
-      "text": "This is from my post request",
-      "id": 4
-    },
-    {
-      "rating": "9",
-      "id": 5
-    },
-    {
-      "text": "Hey there delilah",
-      "rating": 10,
-      "id": 6
     }
   ]
 }
